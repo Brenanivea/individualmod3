@@ -1,0 +1,68 @@
+{
+    "Filmes-de-romance": [
+        {
+            "id": 1,
+            "nome": "De repente 30",
+            "dirigido": "Gary winick",
+            "ano": 2004
+        },
+        {
+            "id": 2,
+            "nome": "Continencia ao amor",
+            "dirigido": "Elizabeth Allen Rosenbaum",
+            "ano": 2022
+        },
+        {
+            "id": 3,
+            "nome": " A culpa é das estrelas",
+            "dirigido": " Josh Boone",
+            "ano": 2014
+        },
+        {
+            "id": 4,
+            "nome": " Simplesmente acontece",
+            "dirigido": " Christian Ditter",
+            "ano": 2014
+        }
+    ],
+    "Produtoras-famosas": [
+        {
+            "id": 1,
+            "nome": "SONY PICTURES ENTERTAINMENT"
+        },
+        {
+            "id": 2,
+            "nome": "TIME WARNER"
+        },
+        {
+            "id": 3,
+            "nome": "UNIVERSAL PICTURES"
+        },
+        {
+            "id": 4,
+            "nome": "21ST CENTURY FOX"
+        }
+    ],
+    "Cinemas-famosos-do-Rio-De-Janeiro": [
+        {
+            "id": 1,
+            "nome": "UCI New York City Center",
+            "local": "Avenida Das Américas 5000 - Loja 301 - Barra da Tijuca 22640-102 Rio de Janeiro"
+        },
+        {
+            "id": 2,
+            "nome": "Kinoplex West Shopping",
+            "local": "Estrada do Mendanha 550 - Campo Grande 23087-284 Rio de Janeiro"
+        },
+        {
+            "id": 3,
+            "nome": "UCI Kinoplex NorteShopping",
+            "local": "Avenida Dom Helder Camara 5080 - Piedade 20771-001 Rio de Janeiro"
+        },
+        {
+            "id": 4,
+            "nome": "Cinesystem Bangu Shopping",
+            "local": "Rua Fonseca 240 - Bangu 21820-005 Rio de Janeiro"
+        }
+    ]
+}
